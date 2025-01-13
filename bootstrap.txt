@@ -1,0 +1,25 @@
+What is Bootstrap?
+
+Bootstrap is an open-source front-end framework for developing responsive and mobile-first websites. It includes HTML, CSS, and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
+
+
+key features
+
+1. Responsive design: Automatically adapts to different screen sizes
+
+2. Prebuilt Componenets: Includes navbars, modals, cards, alerts, and more.
+
+3. Customizable
+
+CORE CONCEPTS 
+1. Grid System: A responsive grid System with 12 columns that helps design layouts. It includes classes for different screen sizes:
+-  col-sm-* for small devices.
+-  col-md-* for medium devices.
+-  col-lg-* for large devices.
+-  col-xl-* for extra-large devices.
+
+2.Componenets: Prebuilt components like buttons, cards, navbars, forms modals, etc., that are easy to use.
+
+3.Utilities: Helper classes for spacing, alignment, colors, display, borders, shadows, and more.
+
+4.Custom CSS: While Bootstrap comes with default styling, you can override it usuong your own CSS or Bootstrap's variables.
